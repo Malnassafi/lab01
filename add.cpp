@@ -14,5 +14,4 @@ int main()
 
         cout << num1 << " + " << num2 << " = " << sum << endl;
         return 0;
-}
-~             
+}             
