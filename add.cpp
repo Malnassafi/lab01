@@ -6,7 +6,6 @@ int main()
 {
         int num1, num2;
 
-        cout << "What numbers would you like to add?" << endl;
         cin >> num1;
         cin >> num2;
 
